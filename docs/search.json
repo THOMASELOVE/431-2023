@@ -7,11 +7,39 @@
     "text": "Details to come."
   },
   {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
+    "objectID": "calendar.html#when-and-where-do-classes-meet",
+    "href": "calendar.html#when-and-where-do-classes-meet",
     "title": "431 Fall 2023 Course Calendar",
-    "section": "",
-    "text": "Details to come."
+    "section": "When and Where Do Classes Meet?",
+    "text": "When and Where Do Classes Meet?\nAll classes meet in person in Room E321-323 in the Robbins Building at the CWRU School of Medicine, from 1:00 to 2:15 PM.\n\nThe link for each class is to the README (starting point), which contains key announcements, slides and other links for that session."
+  },
+  {
+    "objectID": "calendar.html#august-september-2023",
+    "href": "calendar.html#august-september-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "August & September 2023",
+    "text": "August & September 2023\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nClass 01\nTUE  08-29\nWelcome to 431, Getting Started\n\n\nClass 02\nTHU  08-31\nPART A begins; see Course Notes.  Types of Data, Summarizing Data with R\n\n\nClass 03\nTUE  09-05\nTo be announced.\n\n\nClass 04\nTHU  09-07\nTo be announced.\n\n\nClass 05\nTUE  09-12\nTo be announced.\n\n\nClass 06\nTHU  09-14\nTo be announced.\n\n\nClass 07\nTUE  09-19\nTo be announced.\n\n\nClass 08\nTHU  09-21\nTo be announced.\n\n\nClass 09\nTUE  09-26\nTo be announced.\n\n\nClass 10\nTHU  09-28\nTo be announced."
+  },
+  {
+    "objectID": "calendar.html#october-2023",
+    "href": "calendar.html#october-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "October 2023",
+    "text": "October 2023\n\n\n\n\n\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nClass 11\nTUE  10-03\nTo be announced.\n\n\nClass 12\nTHU  10-05\nTo be announced.\n\n\nClass 13\nTUE  10-10\nTo be announced.\n\n\nClass 14\nTHU  10-12\nTo be announced.\n\n\nClass 15\nTUE  10-17\nTo be announced.\n\n\nClass 16\nTHU  10-19\nTo be announced.\n\n\nNo class\nTUE  10-24\nCWRU Fall Break.\n\n\nClass 17\nTHU  10-26\nTo be announced.\n\n\nClass 18\nTUE  10-31\nTo be announced."
+  },
+  {
+    "objectID": "calendar.html#november-2023",
+    "href": "calendar.html#november-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "November 2023",
+    "text": "November 2023\n\n\n\n\n\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nClass 19\nTHU  11-02\nTo be announced.\n\n\nNo class\nTUE  11-07\nElection Day. (No 431 class but CWRU is open.)\n\n\nClass 20\nTHU  11-09\nTo be announced.\n\n\nClass 21\nTUE  11-14\nTo be announced.\n\n\nClass 22\nTHU  11-16\nTo be announced.\n\n\nNo class\nTUE  11-21\nThanksgiving week. (No 431 class but CWRU is open.)\n\n\nNo class\nTHU  11-23\nCWRU Thanksgiving Break\n\n\nClass 23\nTUE  11-28\nTo be announced.\n\n\nClass 24\nTHU  11-30\nTo be announced."
+  },
+  {
+    "objectID": "calendar.html#december-2023",
+    "href": "calendar.html#december-2023",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "December 2023",
+    "text": "December 2023\n\n\n\n\n\n\n\n\nLINK\nDate\nDetails\n\n\n\n\nClass 25\nTUE  12-05\nTo be announced.\n\n\nClass 26\nTHU  12-07\nLast class. Topics to be announced.\n\n\n\nFinal Project Presentations will be held the week of December 11-15. All class materials will be due no later than Monday 2023-12-18 at Noon."
   },
   {
     "objectID": "campuswire.html",
@@ -51,6 +79,13 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Welcome! 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University."
+  },
+  {
+    "objectID": "index.html#note-this-whole-website-is-under-active-revision.",
+    "href": "index.html#note-this-whole-website-is-under-active-revision.",
     "title": "431 Course Main Page: Fall 2023",
     "section": "",
     "text": "Welcome! 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University."

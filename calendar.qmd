@@ -4,4 +4,64 @@ author: "Thomas E. Love"
 date: last-modified
 ---
 
-Details to come.
+## NOTE: This website is under active revision. Treat all information as tentative.
+
+## When and Where Do Classes Meet?
+
+All classes meet in person in Room E321-323 in the Robbins Building at the CWRU School of Medicine, from 1:00 to 2:15 PM.
+
+- The link for each class is to the README (starting point), which contains key announcements, slides and other links for that session.
+
+## August & September 2023
+
+| LINK | Date | Details |
+|:--------:|:--------:|:---------------------------------------------------|
+| [Class 01](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class01) | TUE <br /> 08-29 | Welcome to 431, Getting Started
+| [Class 02](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class02) | THU <br /> 08-31 | **PART A** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Types of Data, Summarizing Data with R
+| Class 03 | TUE <br /> 09-05 | To be announced.
+| Class 04 | THU <br /> 09-07 | To be announced.
+| Class 05 | TUE <br /> 09-12 | To be announced.
+| Class 06 | THU <br /> 09-14 | To be announced.
+| Class 07 | TUE <br /> 09-19 | To be announced.
+| Class 08 | THU <br /> 09-21 | To be announced.
+| Class 09 | TUE <br /> 09-26 | To be announced.
+| Class 10 | THU <br /> 09-28 | To be announced.
+
+## October 2023
+
+| LINK | Date | Details |
+|:--------:|:--------:|:---------------------------------------------------|
+| Class 11 | TUE <br /> 10-03 | To be announced.
+| Class 12 | THU <br /> 10-05 | To be announced.
+| Class 13 | TUE <br /> 10-10 | To be announced.
+| Class 14 | THU <br /> 10-12 | To be announced.
+| Class 15 | TUE <br /> 10-17 | To be announced.
+| Class 16 | THU <br /> 10-19 | To be announced.
+| No class | *TUE <br /> 10-24* | CWRU Fall Break.
+| Class 17 | THU <br /> 10-26 | To be announced.
+| Class 18 | TUE <br /> 10-31 | To be announced.
+
+## November 2023
+
+| LINK | Date | Details |
+|:--------:|:--------:|:---------------------------------------------------|
+| Class 19 | THU <br /> 11-02 | To be announced.
+| No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.)
+| Class 20 | THU <br /> 11-09 | To be announced.
+| Class 21 | TUE <br /> 11-14 | To be announced.
+| Class 22 | THU <br /> 11-16 | To be announced.
+| No class | *TUE <br /> 11-21* | Thanksgiving week. (No 431 class but CWRU is open.)
+| No class | *THU <br /> 11-23* | CWRU Thanksgiving Break
+| Class 23 | TUE <br /> 11-28 | To be announced.
+| Class 24 | THU <br /> 11-30 | To be announced.
+
+## December 2023
+
+| LINK | Date | Details |
+|:--------:|:--------:|:---------------------------------------------------|
+| Class 25 | TUE <br /> 12-05 | To be announced.
+| Class 26 | THU <br /> 12-07 | Last class. Topics to be announced.
+
+Final Project Presentations will be held the week of December 11-15.
+All class materials will be due no later than Monday 2023-12-18 at Noon.
+

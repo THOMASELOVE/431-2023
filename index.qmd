@@ -4,6 +4,8 @@ author: "Thomas E. Love"
 date: last-modified
 ---
 
+## NOTE: This whole website is under active revision.
+
 Welcome! 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
 
 ## Everything will be linked here
