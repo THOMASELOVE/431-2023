@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Details to come."
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "431 Fall 2023 Course Calendar",
+    "section": "",
+    "text": "Details to come."
+  },
+  {
+    "objectID": "campuswire.html",
+    "href": "campuswire.html",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Details to come."
+  },
+  {
+    "objectID": "campuswire.html#campuswire-link",
+    "href": "campuswire.html#campuswire-link",
+    "title": "Campuswire",
+    "section": "",
+    "text": "Details to come."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "431 Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#before-class-begins-on-2023-08-29",
+    "href": "contact.html#before-class-begins-on-2023-08-29",
+    "title": "431 Contact Us",
+    "section": "",
+    "text": "If you have any questions before class begins, contact Professor Love at thomas dot love at case dot edu."
+  },
+  {
+    "objectID": "contact.html#once-the-class-begins",
+    "href": "contact.html#once-the-class-begins",
+    "title": "431 Contact Us",
+    "section": "Once The Class Begins",
+    "text": "Once The Class Begins\nDetails to come."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "",
+    "text": "Welcome! 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University."
+  },
+  {
+    "objectID": "index.html#everything-will-be-linked-here",
+    "href": "index.html#everything-will-be-linked-here",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "Everything will be linked here",
+    "text": "Everything will be linked here\nMaterials you will find here by the first day of class include:\n\nthe course syllabus\nthe course calendar, which will provide the final word on all deadlines, and will also link to all materials used in each class session\nDr. Love’s course notes, which are a major source of course examples\ndetailed information on all course assignments, including labs, minute papers, projects and quizzes, with all deadlines found in the Calendar.\ninformation on software, including installation instructions for R, RStudio, the key R packages and data sets we’ll use\ninformation on how to contact us.\n\nAdjustments to these materials will occur over the course of the semester. Professor Love will highlight any major changes in class."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "Getting Started",
+    "text": "Getting Started\nYour first few steps in this course are to:\n\nRegister and enroll via the CWRU Student Information System (SIS). Note that Section 100 of PQHS 431, CRSP 431 and MPHP 431 are identical.\nReview this main course website, being sure to visit the Course Calendar.\nSkim through the Course Syllabus.\nObtain a copy of David Spiegelhalter’s The Art of Statistics: How to Learn from Data, originally published in 2020 and available at all major book retailers for around $20.\nComplete the Welcome to 431 survey, as described below.\nGet started installing the software you’ll need for the course.\nSign up for the (free) Campuswire discussion forum.\n\n\nWelcome to 431 Survey\nPlease fill out the Welcome to 431 Survey to help us get to know you a little better.\n\nYou must log into Google via your CWRU account to access the survey.\nThe survey should take 15-20 minutes to complete, and we encourage you to do so now.\nThanks to those of you who’ve already completed the survey."
+  },
+  {
+    "objectID": "index.html#class-starts-2023-08-29-at-1-pm",
+    "href": "index.html#class-starts-2023-08-29-at-1-pm",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "Class Starts 2023-08-29 at 1 PM",
+    "text": "Class Starts 2023-08-29 at 1 PM\nClass will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU’s School of Medicine, starting on 2023-08-29.\n\nThe Course Calendar is now available.\nThe course will be held in person, rather than online, but we will make recordings available whenever possible for those who need to miss a session. Do not come to class if you are sick."
+  },
+  {
+    "objectID": "index.html#pep-talk",
+    "href": "index.html#pep-talk",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "Pep Talk!",
+    "text": "Pep Talk!\nLearning R can be difficult at first - it’s like learning any new language. Hadley Wickham, the chief scientist at Posit (makers of RStudio) and the author of some amazing R packages you’ll be using like ggplot2 made this wise observation:\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.\n\nIf you’re finding yourself struggling or not understanding, take a break, talk to classmates, ask us for help, etc. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it, and instead ASK FOR HELP. I promise you can do this. (Thanks, Andrew Heiss)"
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "431 Course Main Page: Fall 2023",
+    "section": "Questions?",
+    "text": "Questions?\nVisit the Contact Us page on this site to learn how to get help in the course.\nThank you."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software for 431",
+    "section": "",
+    "text": "The course makes heavy use of the R statistical programming language, and several related tools, most especially the RStudio development environment. Every bit of this software is free to use, and open-source.\nYou will need access to a computer to do your work for this class, not just an iPad or other tablet, but an actual computer. You do not need a state of the art machine, nor should you need any special hardware to run things for this course.\nMore details on hardware requirements and some related issues can be found in the Required Software section of the Course Syllabus."
+  },
+  {
+    "objectID": "software.html#installing-r-and-r-studio",
+    "href": "software.html#installing-r-and-r-studio",
+    "title": "Software for 431",
+    "section": "Installing R and R Studio",
+    "text": "Installing R and R Studio\nThe steps you need to complete are:\n\nDownload and install the latest version of R (version 4.3.1 or later) from https://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org/ which automatically chooses a fast, nearby mirror for you.\n\nIf you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.\n\nDownload and install RStudio Desktop (Open Source Edition - the free version 2023.06.1+524 or later) by visiting https://posit.co/download/rstudio-desktop/."
+  },
+  {
+    "objectID": "software.html#installing-r-packages-and-datacode-for-431",
+    "href": "software.html#installing-r-packages-and-datacode-for-431",
+    "title": "Software for 431",
+    "section": "Installing R Packages and Data/Code for 431",
+    "text": "Installing R Packages and Data/Code for 431\nAfter you’ve completed steps 1 and 2 above, move on to these tasks:\n\nInstall some R packages - an R “package” is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work.\n\nVisit https://github.com/THOMASELOVE/431-packages for details and the list of packages we’ll be using in 431.\n\nDownload data and code (functions) we’ve developed specifically for 431 at https://github.com/THOMASELOVE/431-data.\n\nFollow the instructions you’ll find there."
+  },
+  {
+    "objectID": "software.html#need-installation-help",
+    "href": "software.html#need-installation-help",
+    "title": "Software for 431",
+    "section": "Need Installation Help?",
+    "text": "Need Installation Help?\nIf you need more help, you might look at this terrific resource for Installing R and RStudio from Jenny Bryan and the STAT 545 project. These are the people responsible for the great Happy Git with R project, which will also be worth your time when we are using Git and GitHub.\n\nIf you’re having trouble with installation before our first class, don’t worry too much. The TAs and Professor Love will be available to help once the class gets going.\nOnce the class starts, if you’re having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on Campuswire. We want to hear from you!"
+  },
+  {
+    "objectID": "software.html#updating-your-r-packages",
+    "href": "software.html#updating-your-r-packages",
+    "title": "Software for 431",
+    "section": "Updating Your R Packages",
+    "text": "Updating Your R Packages\nEvery once in a while, it’s a good idea to update your R packages. To do so,\n\nGo to the Packages tab on the right side of your RStudio screen, and click on Update.\nThis will bring up a dialog box. I usually click Select All, then click Install Updates.\n\n\nA popup box may appear, asking “Do you want to install from sources the packages which need compilation?” to which I usually answer No. A Yes response leads to a slower installation, but can solve problems if you still have them after updating.\nThis may take a few minutes. As long as you’re seeing activity in the Console window, things are progressing.\nEventually, you’ll get a message that “The downloaded source packages are in …” with a directory name. That’s the sign that the updating is done.\nUpdating packages is something you’ll do occasionally throughout the semester, mostly when a problem happens.\n\n\nFinally, choose File … Quit Session from the top menu, and accept or deny (I usually deny) RStudio’s request to save your workspace. Then close RStudio, and re-open it if you want to do some work."
+  }
+]

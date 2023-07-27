@@ -1,0 +1,61 @@
+---
+title: "431 Course Main Page: Fall 2023"
+author: "Thomas E. Love"
+date: last-modified
+---
+
+Welcome! 431 is the first part of a two-semester sequence (with 432) in applied statistics and data science taught by Professor Thomas Love in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
+
+## Everything will be linked here
+
+Materials you will find here by the first day of class include:
+
+-   the course [syllabus](https://thomaselove.github.io/431-syllabus-2023/)
+-   the course [calendar](calendar.qmd), which will provide the final word on all deadlines, and will also link to all materials used in each class session
+-   Dr. Love's [course notes](https://thomaselove.github.io/431-notes/), which are a major source of course examples
+-   detailed information on all course [assignments](assignments.qmd), including labs, minute papers, projects and quizzes, with all deadlines found in the [Calendar](calendar.qmd).
+-   information on [software](software.qmd), including installation instructions for R, RStudio, the key R packages and data sets we'll use
+-   information on how to [contact us](contact.qmd).
+
+Adjustments to these materials will occur over the course of the semester. Professor Love will highlight any major changes in class.
+
+## Getting Started
+
+Your first few steps in this course are to:
+
+1.  Register and enroll via the [CWRU Student Information System (SIS)](https://sis.case.edu/). Note that Section 100 of PQHS 431, CRSP 431 and MPHP 431 are identical.
+2.  Review this main course website, being sure to visit the [Course Calendar](calendar.qmd).
+3.  Skim through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2023/).
+4.  Obtain a copy of David Spiegelhalter's *The Art of Statistics: How to Learn from Data*, originally published in 2020 and available at all major book retailers for around \$20.
+5.  Complete the [Welcome to 431 survey](https://bit.ly/431-2023-welcome-survey), as described below.
+6.  Get started [installing the software](software.qmd) you'll need for the course.
+7.  Sign up for the (free) [Campuswire discussion forum](campuswire.qmd).
+
+### Welcome to 431 Survey
+
+Please fill out the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) to help us get to know you a little better.
+
+-   You must **log into Google via your CWRU account** to access the survey.
+-   The survey should take 15-20 minutes to complete, and we encourage you to do so now.
+-   Thanks to those of you who've already completed the survey.
+
+## Class Starts 2023-08-29 at 1 PM
+
+Class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-E323 at CWRU's School of Medicine, starting on 2023-08-29.
+
+-   The [Course Calendar](calendar.qmd) is now available.
+-   The course will be held in person, rather than online, but we will make recordings available whenever possible for those who need to miss a session. Do not come to class if you are sick.
+
+## Pep Talk!
+
+Learning R can be difficult at first - it's like learning any new language. Hadley Wickham, the chief scientist at Posit (makers of RStudio) and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+
+> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+If you're finding yourself struggling or not understanding, take a break, talk to classmates, ask us for help, etc. If you've spent 15 minutes working on something and are stuck, don't keep working on it, and instead **ASK FOR HELP**. I promise you can do this. (Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))
+
+## Questions?
+
+Visit the [Contact Us page](contact.qmd) on this site to learn how to get help in the course.
+
+Thank you.
