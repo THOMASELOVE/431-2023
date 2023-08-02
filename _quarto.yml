@@ -22,7 +22,7 @@ website:
       - text: "Key Links"
         menu: 
         - text: "Campuswire discussion board"
-          href: https://campuswire.com/
+          href: campuswire.qmd
         - text: "Canvas (submissions & recordings)"
           href: https://canvas.case.edu/
         - text: "Shared Google Drive (CWRU)"
