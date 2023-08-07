@@ -3,4 +3,65 @@ title: "Assignments"
 date: last-modified
 ---
 
-Details to come.
+Please review [the Syllabus](https://thomaselove.github.io/431-syllabus-2023/) for more details on our assignments (deliverables) this semester.
+
+## Welcome to 431 Survey 
+
+Please fill out the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) to help us get to know you a little better.
+
+- Note that you must **log into Google via your CWRU account** in order to access the survey.
+- The survey should take 15-20 minutes to complete, and we encourage you to complete it as soon as you can, ideally before our first class.
+- Thanks to those of you who've already completed this task.
+
+# Main Semester Assignments
+
+During the semester, the assignments include Minute Papers, Labs, Quizzes and Projects, as linked below.
+
+## Minute Papers
+
+Minute Paper materials appear at the [431 Minute Paper page](https://github.com/THOMASELOVE/431-minute-2023).
+
+- Deadlines for all ten Minute Papers are provided in the [Course Calendar](calendar.qmd). All minute papers are due on Wednesdays at noon.
+
+## Labs
+
+Instructions for the seven main and two optional Labs will appear at the [431 Labs page](https://github.com/THOMASELOVE/431-labs-2023).
+
+- Deadlines for all Labs are provided in the [Course Calendar](calendar.qmd)
+- The [Lab Regrade Request Form](https://bit.ly/431-2023-lab-regrade-requests) will be made available after Lab 1's grades are posted. This is the place to submit any regrading requests on Labs throughout the semester. See [the Labs page](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december) and [this section of the Grading Chapter in the Syllabus](https://thomaselove.github.io/431-syllabus-2023/11_grading.html#lab-appeal-policy---request-a-review-via-google-form) for details on this policy.
+
+## Quizzes
+
+Quiz instructions will appear at the [431 Quizzes Page](https://github.com/THOMASELOVE/431-quizzes-2023).
+
+A sample of five questions from an old Quiz 1, with answers is available there for the curious.
+
+Deadlines for each of the two Quizzes are in the [Course Calendar](calendar.qmd)
+
+## Project A
+
+The Project A website, with complete instructions, will be made available soon.
+
+Project A is the first of two real data science projects you'll be doing this semester. For Project A, Professor Love has provided a lot of information but also much less flexibility than you'll have in Project B. In particular, you'll each be working with part of the same data set (the County Health Rankings 2023 data.) The three key analytic tasks you'll complete are:
+
+1. Visualizing and modeling the relationship between a quantitative outcome and a quantitative predictor.
+2. Visualizing and modeling the relationship between a quantitative outcome and a categorical predictor (with 2-5 levels).
+3. Visualizing and modeling the relationship between a quantitative outcome and a quantitative predictor, after adjustment for the state in which the county is located
+
+You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
+
+There are two sets of deliverables for Project A, and the deadlines for each are in the [Course Calendar](calendar.qmd):
+
+1. A Project A Proposal (due at the start of October) which requires you to answer a few specific questions after creating a clean data set (a “tibble” containing specific “counties” and variables you will choose from available options.) You can (and will need to) do this work in September.
+2. A Project A Portfolio (due at the end of October) which we'll describe more completely here when full Project A instructions are available. You'll build the Portfolio in October, after your Proposal has been accepted.
+
+## Project B
+
+The Project B website, with all instructions, will be posted when necessary. I strongly encourage you not to worry about Project B until you've completed Project A.
+
+Both Project B deadlines are in the [Calendar](calendar.qmd). Project B involves the completion of four tasks, which you'll start working on in early November:
+
+1. You will complete a Proposal to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation.
+2. You (and your partner, if applicable) will present your project sometime between 12-11 and 12-15 to Dr. Love in his office. 
+3. You will build Quarto and HTML reports describing your work.
+4. Finally, you will complete a Self-Evaluation form, as you will also do in Project A.
