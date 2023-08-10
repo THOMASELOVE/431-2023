@@ -18,17 +18,21 @@ website:
         href: assignments.qmd
       - text: "Software"
         href: software.qmd
+      - text: "Campuswire"
+        href: campuswire.qmd
     right:
       - text: "Key Links"
         menu: 
-        - text: "Campuswire discussion board"
-          href: campuswire.qmd
         - text: "Canvas (submissions & recordings)"
           href: https://canvas.case.edu/
         - text: "Shared Google Drive (CWRU)"
           href: https://docs.google.com/document/d/1vtljYk3teBEu_bZWhA7tyaXjZLvqaYqSSMGmCPyHKrM/edit?usp=sharing
         - text: "Minute Papers (Github)"
           href: https://github.com/THOMASELOVE/431-minute-2023
+        - text: "Labs (Github)"
+          href: https://github.com/THOMASELOVE/431-labs-2023
+        - text: "Quizzes (Github)"
+          href: https://github.com/THOMASELOVE/431-quizzes-2023
         - text: "Class READMEs (Github)"
           href: https://github.com/THOMASELOVE/431-classes-2023
       - text: "Contact Us"
