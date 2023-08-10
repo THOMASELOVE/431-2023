@@ -8,7 +8,13 @@ date: last-modified
 
 All classes meet in person in Room E321-323 in the Robbins Building at the CWRU School of Medicine, from 1:00 to 2:15 PM.
 
+## Details
+
 - The link for each class is to the README (starting point), which contains key announcements, slides and other links for that session.
+- Readings are identified by:
+  - **AOS** = David Spiegelhalter's *The Art of Statistics*
+  - **R4DS** = Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
+    - Note that solutions for the exercises in R4DS 2e [are available here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/).
 
 ## August & September 2023
 
@@ -17,18 +23,18 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | [Class 01](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class01) | TUE <br /> 08-29 | Welcome to 431, How The Course Works <br /> Getting Started with R, RStudio and Quarto
 | *survey* | WED <br /> 08-30 | [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) due at Noon
 | [Class 02](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class02) | THU <br /> 08-31 | **PART A** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Types of Data, Summarizing Quantitative Data
-| [Class 03](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class03) | TUE <br /> 09-05 | Visualizing and Managing Data with RStudio and the Tidyverse
+| [Class 03](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class03) | TUE <br /> 09-05 | Visualizing and Managing Data with RStudio and the Tidyverse <br /> **READING** By now, **AOS** Intro & Chapter 1, **R4DS** through Chapter 3
 | *min paper* | WED <br /> 09-06 | [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 04](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class04) | THU <br /> 09-07 | Describing Quantitative and Categorical Data
 | *Lab 1 due* | TUE <br /> 09-12 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 05](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class05) | TUE <br /> 09-12 | Dealing with Missingness in Describing Data
+| [Class 05](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class05) | TUE <br /> 09-12 | Dealing with Missingness in Describing Data <br /> **READING** By now, **AOS** through Chapter 3, **R4DS** through Chapter 5 and skim 11
 | *min paper* | WED <br /> 09-13 | [Minute Paper after Class 05](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 06](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class06) | THU <br /> 09-14 | Visualizations for Comparisons and Associations
 | *Lab 2 due* | TUE <br /> 09-19 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 07](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class07) | TUE <br /> 09-19 | Scatterplot Smooths and Linear Models
+| [Class 07](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class07) | TUE <br /> 09-19 | Scatterplot Smooths and Linear Models  <br /> **READING** By now, **AOS** through Chapter 4, **R4DS** Chapters 6-7, 10-11
 | [Class 08](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class08) | THU <br /> 09-21 | Simple Regression and Power Transformations
 | *Lab 3 due* | TUE <br /> 09-26 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 09](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class09) | TUE <br /> 09-26 | Data Wrangling, Exploration and Visualization Strategies
+| [Class 09](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class09) | TUE <br /> 09-26 | Data Wrangling, Exploration and Visualization Strategies <br /> **READING** By now, **AOS** through Chapter 5, **R4DS** Chapters 1-7, 10-12
 | *min paper* | WED <br /> 09-27 | [Minute Paper after Class 09](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10) | THU <br /> 09-28 | Building Confidence Intervals for a Mean or Proportion
 
@@ -37,41 +43,41 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
 | *Proposal A* | TUE <br /> 10-03 | Project A Proposal due at Noon.
-| [Class 11](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class11) | TUE <br /> 10-03 | **PART B** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Comparing Means using Paired Samples
+| [Class 11](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class11) | TUE <br /> 10-03 | **PART B** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Comparing Means using Paired Samples <br /> **READING** By now, **AOS** through Chapter 6, **R4DS** Chapters 1-12, 29-30
 | *min paper* | WED <br /> 10-04 | [Minute Paper after Class 11](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 12](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class12) | THU <br /> 10-05 | Comparing Means with Independent Samples
+| [Class 12](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class12) | THU <br /> 10-05 | Comparing Means with Independent Samples 
 | - | THU <br /> 10-05 | [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM.
 | *Quiz 1 due* | TUE <br /> 10-10 | [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) due at Noon. <br /> Quiz 1 covers material from Classes 1-12.
-| [Class 13](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class13) | TUE <br /> 10-10 | ANOVA and Indicator Variable Regression
+| [Class 13](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class13) | TUE <br /> 10-10 | ANOVA and Indicator Variable Regression <br /> **READING** By now, **AOS** through Chapter 7
 | *min paper* | WED <br /> 10-11 | [Minute Paper after Class 13](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 14](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class14) | THU <br /> 10-12 | Comparing Rates and Proportions, 2x2 Tables
 | *Lab 4 due* | TUE <br /> 10-17 | [Lab 4](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 15](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class15) | TUE <br /> 10-17 | Power and Sample Size Considerations
+| [Class 15](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class15) | TUE <br /> 10-17 | Power and Sample Size Considerations <br /> **READING** By now, **AOS** through Chapter 8
 | *min paper* | WED <br /> 10-18 | [Minute Paper after Class 15](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 16](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class16) | THU <br /> 10-19 | P values and their problems
 | No class | *TUE <br /> 10-24* | CWRU Fall Break.
 | *Lab 5 due* | THU <br /> 10-26 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Multiple Regression Modeling, Part 1
+| [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Multiple Regression Modeling, Part 1 <br /> **READING** By now, **AOS** through Chapter 9
 | *Project A* | TUE <br /> 10-31 | Project A Portfolio due at Noon. <br /> Project A uses material from Classes 1-15.
-| [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | Multiple Regression Modeling, Part 2
+| [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | Multiple Regression Modeling, Part 2 <br /> **READING** By now, **AOS** through Chapter 10, **R4DS** skim Chapters 13-28
 
 ## November 2023
 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
 | *min paper* | WED <br /> 11-01 | [Minute Paper after Class 18](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 19](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class19) | THU <br /> 11-02 | Multiple Regression Modeling, Part 3
+| [Class 19](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class19) | THU <br /> 11-02 | Multiple Regression Modeling, Part 3 
 | No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.)
 | *Lab 6 due* | THU <br /> 11-09 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 20](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class20) | THU <br /> 11-09 | Multiple Regression Modeling, Part 4
 | *Proposal B* | TUE <br /> 11-14 | Project B Proposal due at Noon.
-| [Class 21](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class21) | TUE <br /> 11-14 | Multiple Regression Modeling, Part 5
+| [Class 21](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class21) | TUE <br /> 11-14 | Multiple Regression Modeling, Part 5 <br /> **READING** By now, **AOS** through Chapter 11
 | *min paper* | WED <br /> 11-15 | [Minute Paper after Class 21](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 22](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class22) | THU <br /> 11-16 | Multiple Regression Modeling, Part 6
 | No class | *TUE <br /> 11-21* | Thanksgiving week. (No 431 class but CWRU is open.)
 | No class | *THU <br /> 11-23* | CWRU Thanksgiving Break
 | *Lab 7* | TUE <br /> 11-28 | [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 23](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class23) | TUE <br /> 11-28 | Multiple Regression Modeling, Part 7
+| [Class 23](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class23) | TUE <br /> 11-28 | Multiple Regression Modeling, Part 7 <br /> **READING** By now, **AOS** through Chapter 12
 | *min paper* | WED <br /> 11-29 | [Minute Paper after Class 23](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 24](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class24) | THU <br /> 11-30 | Multiple Regression Modeling, Part 8
 | - | THU <br /> 11-30 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM. <br /> Quiz 2 covers material from Classes 1-24.
@@ -81,7 +87,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
 | *Quiz 2 due* | TUE <br /> 12-05 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) due at Noon.
-| [Class 25](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class25) | TUE <br /> 12-05 | To be announced.
+| [Class 25](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class25) | TUE <br /> 12-05 | To be announced. <br /> **READING** By now, **AOS** complete book
 | *min paper* | WED <br /> 12-06 | [Minute Paper after Class 25](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 26](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class26) | THU <br /> 12-07 | Last class. Topics to be announced.
 | *Lab Regrade?* | FRI 12-08 | (Optional) Submit Lab Regrade Request Form by noon
@@ -91,6 +97,9 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 
 Project B Presentations will be held the week of December 11-15.
 Project B materials will be due Monday 2023-12-18 at Noon.
+
+# Readings
+
 
 # TA office hours (to come)
 
