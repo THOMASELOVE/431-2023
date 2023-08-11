@@ -55,7 +55,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | [Class 15](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class15) | TUE <br /> 10-17 | Power and Sample Size Considerations <br /> **READING** By now, **AOS** through Chapter 8
 | *min paper* | WED <br /> 10-18 | [Minute Paper after Class 15](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 16](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class16) | THU <br /> 10-19 | P values and their problems
-| No class | *TUE <br /> 10-24* | CWRU Fall Break.
+| No class | *TUE <br /> 10-24* | CWRU Fall Break. <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/).
 | *Lab 5 due* | THU <br /> 10-26 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Multiple Regression Modeling, Part 1 <br /> **READING** By now, **AOS** through Chapter 9
 | *Project A* | TUE <br /> 10-31 | Project A Portfolio due at Noon. <br /> Project A uses material from Classes 1-15.
@@ -67,7 +67,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 |:--------:|:--------:|:---------------------------------------------------|
 | *min paper* | WED <br /> 11-01 | [Minute Paper after Class 18](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 19](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class19) | THU <br /> 11-02 | Multiple Regression Modeling, Part 3 
-| No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.)
+| No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.) <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/).
 | *Lab 6 due* | THU <br /> 11-09 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 20](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class20) | THU <br /> 11-09 | Multiple Regression Modeling, Part 4
 | *Proposal B* | TUE <br /> 11-14 | Project B Proposal due at Noon.
@@ -92,7 +92,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | [Class 26](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class26) | THU <br /> 12-07 | Last class. Topics to be announced.
 | *Lab Regrade?* | FRI 12-08 | (Optional) Submit Lab Regrade Request Form by noon
 | *Presentations* | 12-11 through <br /> 12-15 | Project B Presentations to Dr. Love
-| *Lab X* | TUE <br /> 12-12 | (Optional) [Lab X](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
+| *Lab X* | TUE <br /> 12-12 | (Optional) [Lab X](https://thomaselove.github.io/431-labX/) due at Noon.
 | *Project B* | MON <br /> 12-18 | Final Project B Materials due at Noon.
 
 Project B Presentations will be held the week of December 11-15.
