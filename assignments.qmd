@@ -54,13 +54,13 @@ You can work alone, or with one other person on Project A. If you work as a pair
 There are two sets of deliverables for [Project A](https://thomaselove.github.io/431-projectA-2023/), and the deadlines for each are in the [Course Calendar](calendar.qmd):
 
 1. A Project A Proposal (due at the start of October) which requires you to answer a few specific questions after creating a clean data set (a “tibble” containing specific “counties” and variables you will choose from available options.) You can (and will need to) do this work in September.
-2. A Project A Portfolio (due at the end of October) which we'll describe more completely here when full Project A instructions are available. You'll build the Portfolio in October, after your Proposal has been accepted.
+2. A Project A Portfolio (due at the end of October). You'll build Quarto and HTML files in October, after your Proposal has been accepted. As part of your Portfolio, you'll also provide some other pieces, which are described in the [Project A instructions](https://thomaselove.github.io/431-projectA-2023/).
 
 ## Project B
 
-The Project B website, with all instructions, will be posted when necessary. I strongly encourage you not to worry about Project B until you've completed Project A.
+The [Project B website](https://thomaselove.github.io/431-projectB-2023/), with all instructions, will be posted when necessary. I strongly encourage you not to worry about Project B until you've completed Project A.
 
-Both Project B deadlines are in the [Calendar](calendar.qmd). Project B involves the completion of four tasks, which you'll start working on in early November:
+Project B deadlines are in the [Calendar](calendar.qmd). [Project B](https://thomaselove.github.io/431-projectB-2023/) involves the completion of four tasks, which you'll start working on in early November:
 
 1. You will complete a Proposal to obtain my approval for your plan, let me know if you’re working with a partner, and schedule your oral presentation.
 2. You (and your partner, if applicable) will present your project sometime between 12-11 and 12-15 to Dr. Love in his office. 

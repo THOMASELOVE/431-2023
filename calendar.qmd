@@ -70,7 +70,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.) <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/).
 | *Lab 6 due* | THU <br /> 11-09 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 20](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class20) | THU <br /> 11-09 | Multiple Regression Modeling, Part 4
-| *Proposal B* | TUE <br /> 11-14 | Project B Proposal due at Noon.
+| *Proposal B* | TUE <br /> 11-14 | [Project B](https://thomaselove.github.io/431-projectB-2023/) Proposal due at Noon.
 | [Class 21](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class21) | TUE <br /> 11-14 | Multiple Regression Modeling, Part 5 <br /> **READING** By now, **AOS** through Chapter 11
 | *min paper* | WED <br /> 11-15 | [Minute Paper after Class 21](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 22](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class22) | THU <br /> 11-16 | Multiple Regression Modeling, Part 6
@@ -91,12 +91,14 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *min paper* | WED <br /> 12-06 | [Minute Paper after Class 25](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 26](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class26) | THU <br /> 12-07 | Last class. Topics to be announced.
 | *Lab Regrade?* | FRI 12-08 | (Optional) Submit [Lab Regrade Request Form](https://bit.ly/431-lab-regrade-form-2023) by noon
-| *Presentations* | 12-11 through <br /> 12-15 | Project B Presentations to Dr. Love
+| *Presentations* | 12-11 through <br /> 12-15 | [Project B](https://thomaselove.github.io/431-projectB-2023/) Presentations to Dr. Love
 | *Lab X* | TUE <br /> 12-12 | (Optional) [Lab X](https://thomaselove.github.io/431-labX/) due at Noon.
-| *Project B* | MON <br /> 12-18 | Final Project B Materials due at Noon.
+| *Project B* | MON <br /> 12-18 | Final [Project B](https://thomaselove.github.io/431-projectB-2023/) Materials due at Noon.
 
-Project B Presentations will be held the week of December 11-15.
-Project B materials will be due Monday 2023-12-18 at Noon.
+## Project B
+
+- [Project B](https://thomaselove.github.io/431-projectB-2023/) Presentations will be held the week of December 11-15.
+- [Project B](https://thomaselove.github.io/431-projectB-2023/) materials will be due Monday 2023-12-18 at Noon.
 
 # Readings
 
