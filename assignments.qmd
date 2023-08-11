@@ -28,7 +28,7 @@ Minute Paper materials appear at the [431 Minute Paper page](https://github.com/
 Instructions for the seven main Lab assignments and a link to the Lab X assignment appear at the [431 Labs page](https://github.com/THOMASELOVE/431-labs-2023).
 
 - Deadlines for all Labs are provided in the [Course Calendar](calendar.qmd)
-- The [Lab Regrade Request Form](https://bit.ly/431-2023-lab-regrade-requests) will be made available after Lab 1's grades are posted. This is the place to submit any regrading requests on Labs throughout the semester. See [the Labs page](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december) and [this section of the Grading Chapter in the Syllabus](https://thomaselove.github.io/431-syllabus-2023/11_grading.html#lab-appeal-policy---request-a-review-via-google-form) for details on this policy.
+- The [Lab Regrade Request Form](https://bit.ly/431-2023-lab-regrade-requests) will open after Lab 1's grades are posted. This is the place to submit any regrading requests on Labs throughout the semester. See [the Labs page](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december) and [this section of the Grading Chapter in the Syllabus](https://thomaselove.github.io/431-syllabus-2023/11_grading.html#lab-appeal-policy---request-a-review-via-google-form) for details on this policy.
 - [Lab X](https://thomaselove.github.io/431-labX/) has its own little website. It's a bonus lab, which we hope you will all do.
 
 ## Quizzes
