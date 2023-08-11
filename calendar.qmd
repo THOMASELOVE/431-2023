@@ -42,7 +42,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
-| *Proposal A* | TUE <br /> 10-03 | Project A Proposal due at Noon.
+| *Proposal A* | TUE <br /> 10-03 | [Project A Proposal](https://thomaselove.github.io/431-projectA-2023/) due at Noon.
 | [Class 11](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class11) | TUE <br /> 10-03 | **PART B** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Comparing Means using Paired Samples <br /> **READING** By now, **AOS** through Chapter 6, **R4DS** Chapters 1-12, 29-30
 | *min paper* | WED <br /> 10-04 | [Minute Paper after Class 11](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 12](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class12) | THU <br /> 10-05 | Comparing Means with Independent Samples 
@@ -58,7 +58,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | No class | *TUE <br /> 10-24* | CWRU Fall Break. <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/).
 | *Lab 5 due* | THU <br /> 10-26 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Multiple Regression Modeling, Part 1 <br /> **READING** By now, **AOS** through Chapter 9
-| *Project A* | TUE <br /> 10-31 | Project A Portfolio due at Noon. <br /> Project A uses material from Classes 1-15.
+| *Project A* | TUE <br /> 10-31 | [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) due at Noon. <br /> [Project A](https://thomaselove.github.io/431-projectA-2023/) uses material from Classes 1-15.
 | [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | Multiple Regression Modeling, Part 2 <br /> **READING** By now, **AOS** through Chapter 10, **R4DS** skim Chapters 13-28
 
 ## November 2023
