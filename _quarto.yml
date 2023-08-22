@@ -27,6 +27,8 @@ website:
           href: https://canvas.case.edu/
         - text: "Shared Google Drive (CWRU)"
           href: https://docs.google.com/document/d/1vtljYk3teBEu_bZWhA7tyaXjZLvqaYqSSMGmCPyHKrM/edit?usp=sharing
+        - text: "431-Data page"
+          href: https://github.com/THOMASELOVE/431-data
         - text: "Minute Papers (Github)"
           href: https://github.com/THOMASELOVE/431-minute-2023
         - text: "Labs (Github)"
