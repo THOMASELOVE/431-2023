@@ -29,6 +29,8 @@ website:
           href: https://docs.google.com/document/d/1vtljYk3teBEu_bZWhA7tyaXjZLvqaYqSSMGmCPyHKrM/edit?usp=sharing
         - text: "431-Data page"
           href: https://github.com/THOMASELOVE/431-data
+        - text: "431 R packages"
+          href: https://github.com/THOMASELOVE/431-packages
         - text: "Minute Papers (Github)"
           href: https://github.com/THOMASELOVE/431-minute-2023
         - text: "Labs (Github)"

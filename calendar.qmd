@@ -58,7 +58,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | No class | *TUE <br /> 10-24* | CWRU Fall Break. <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/). <br /> No TA office hours 11-23 or 11-24
 | *Lab 5 due* | THU <br /> 10-26 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Multiple Regression Modeling, Part 1 <br /> **READING** By now, **AOS** through Chapter 9
-| *Project A* | TUE <br /> 10-31 | [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) due at Noon. <br /> [Project A](https://thomaselove.github.io/431-projectA-2023/) uses material from Classes 1-15.
+| *Project A* | TUE <br /> 10-31 | [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) due at Noon. <br /> [Project A](https://thomaselove.github.io/431-projectA-2023/) uses material from Classes 1-12.
 | [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | Multiple Regression Modeling, Part 2 <br /> **READING** By now, **AOS** through Chapter 10, **R4DS** skim Chapters 13-28
 
 ## November 2023
@@ -95,8 +95,14 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *Lab X* | TUE <br /> 12-12 | (Optional) [Lab X](https://thomaselove.github.io/431-labX/) due at Noon.
 | *Project B* | MON <br /> 12-18 | Final [Project B](https://thomaselove.github.io/431-projectB-2023/) Materials due at Noon.
 
-## Project B
+## Project A deadlines
 
+- [Project A](https://thomaselove.github.io/431-projectA-2023/) Proposal will be due at noon on Tuesday 2023-10-03. We will provide proposal feedback as soon as possible after that deadline.
+- The final [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) including the R data set, Quarto and HTML report, video and self-evaluation form are all due at noon on Tuesday 2023-10-31.
+
+## Project B deadlines
+
+- [Project B](https://thomaselove.github.io/431-projectB-2023/) Proposal Form will be due at noon on Tuesday 2023-11-14. We will schedule the presentations as soon as possible after that deadline.
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) Presentations will be held the week of December 11-15.
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) materials will be due Monday 2023-12-18 at Noon.
 
