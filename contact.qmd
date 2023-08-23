@@ -15,11 +15,13 @@ If you’ve spent 15 minutes working on something and are stuck, don’t keep wo
 
 2. Attend TA office hours to get one-on-one help or share a computer problem.
 
-TA office hours are held via Zoom, and will begin in early September. 
+TA office hours are held via Zoom, and will begin on Tuesday 2023-09-05 and will continue through Monday 2023-12-11.
 
-The schedule of TA Office Hours for this term will be posted here when available. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) will contain Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+- Office hours are canceled on 2023-10-23 and 2023-10-24 (Fall Break) and from 2023-11-19 through 2023-11-25 (Thanksgiving)
 
-- More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2023/teaching-assistants.html).
+The detailed schedule of TA Office Hours for this term will be posted here when available. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) will contain Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+
+- More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2023/08_teachingassistants.html).
 - Professor Love will also hold “drop-in hours” before and after each class on Tuesdays and Thursdays.
 
 3. Email Professor Love at `Thomas dot Love` at `case dot edu` with any individual concerns related to the course that you do not feel comfortable asking elsewhere, or if you have any special concerns or needs that you want him to know about, or to set up an appointment with him for a Zoom meeting.
