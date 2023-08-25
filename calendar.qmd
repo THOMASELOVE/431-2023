@@ -116,9 +116,8 @@ TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-05** and 
 
 MON | TUE | WED | THU | FRI | SAT | SUN
 :------: | :------: | :------: | :------: | :------: | :------: | :------: 
-11:40 am <br /> to <br /> 12:40 pm | - | 11:40 am <br /> to <br /> 12:40 pm | 7:00 pm <br /> to <br /> 8:30 pm | - | 10:30 am <br /> to <br /> 12 noon | 7:00 pm <br /> to <br /> 8:30 pm
-5:00 pm <br /> to <br /> 6:30 pm | - | - | - | - | 7:00 pm <br /> to <br /> 8:30 pm  | 9:00 pm <br /> to <br /> 10:30 pm
-
+11:40 am <br /> to <br /> 12:40 pm | - | 11:40 am <br /> to <br /> 12:40 pm | 7:00 pm <br /> to <br /> 8:30 pm | 12:40 pm <br /> to <br /> 2:10 pm | 10:30 am <br /> to <br /> 12 noon | 7:00 pm <br /> to <br /> 8:30 pm
+5:00 pm <br /> to <br /> 6:30 pm | - | 7:30 pm <br /> to <br /> 8:30 pm | - | - | 7:00 pm <br /> to <br /> 8:30 pm  | 9:00 pm <br /> to <br /> 10:30 pm
 
 Our Shared Google Drive (431 Fall 2023 Dr Love and Students) will contain Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
