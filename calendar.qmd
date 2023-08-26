@@ -112,16 +112,17 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 
 # TA office hours 
 
-TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-05** and will continue through Monday 2023-12-11. They will be held at the following times (**this list is not yet complete**)
+TA office hours are held via Zoom, and will begin on **Tuesday 2023-09-05** and will continue through Monday 2023-12-11. They will be held at the following times.
 
 MON | TUE | WED | THU | FRI | SAT | SUN
 :------: | :------: | :------: | :------: | :------: | :------: | :------: 
-11:40 am <br /> to <br /> 12:40 pm | - | 11:40 am <br /> to <br /> 12:40 pm | 7:00 pm <br /> to <br /> 8:30 pm | 12:40 pm <br /> to <br /> 2:10 pm | 10:30 am <br /> to <br /> 12 noon | 7:00 pm <br /> to <br /> 8:30 pm
+11:40 am <br /> to <br /> 12:40 pm | 5:30 pm <br /> to <br /> 6:30 pm | 11:40 am <br /> to <br /> 12:40 pm | 7:00 pm <br /> to <br /> 8:30 pm | 12:40 pm <br /> to <br /> 2:10 pm | 10:30 am <br /> to <br /> 12 noon | 7:00 pm <br /> to <br /> 8:30 pm
 5:00 pm <br /> to <br /> 6:30 pm | - | 7:30 pm <br /> to <br /> 8:30 pm | - | - | 7:00 pm <br /> to <br /> 8:30 pm  | 9:00 pm <br /> to <br /> 10:30 pm
+7:00 pm <br /> to <br /> 8:30 pm | - | - | - | - | - | -
 
-Our Shared Google Drive (431 Fall 2023 Dr Love and Students) will contain Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+Our Shared Google Drive (431 Fall 2023 Dr Love and Students) holds [Zoom](https://cwru.zoom.us/) links for each of these sessions in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
 
-- Professor Love will also hold “drop-in hours” before and after each class on Tuesdays and Thursdays.
+- Professor Love will also hold “drop-in hours” for 10 minutes before and for 30 minutes after each class on Tuesdays and Thursdays.
 - Office hours are canceled on 2023-10-23 and 2023-10-24 (Fall Break) and from 2023-11-19 through 2023-11-25 (Thanksgiving)
 
 - More information on each of the TAs this semester is found in [this section of our Syllabus](https://thomaselove.github.io/431-syllabus-2023/08_teachingassistants.html).
