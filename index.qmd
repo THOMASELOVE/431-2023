@@ -10,7 +10,7 @@ date: last-modified
 
 ## Everything will be linked here
 
-Materials you will find here by the first day of class include:
+Materials you will find here include:
 
 -   the course [syllabus](https://thomaselove.github.io/431-syllabus-2023/)
 -   the course [calendar](calendar.qmd), which will provide the final word on all deadlines, and will also link to all materials used in each class session
