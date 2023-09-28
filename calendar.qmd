@@ -40,7 +40,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *Lab 3 due* | TUE <br /> 09-26 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 09](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class09) | TUE <br /> 09-26 | Building Confidence Intervals for a Mean or Difference Between Means <br /> **READING** By now, **AOS** through Chapter 5, **R4DS** Chapters 1-7, 10-12
 | *min paper* | WED <br /> 09-27 | [Minute Paper after Class 09](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10) | THU <br /> 09-28 | Data Management, Wrangling and the Tidyverse, Single Imputation
+| [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10) | THU <br /> 09-28 | Data Management, Wrangling and the Tidyverse with the Movies Data
 
 ## October 2023
 
@@ -49,7 +49,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *Proposal A* | TUE <br /> 10-03 | [Project A Proposal](https://thomaselove.github.io/431-projectA-2023/) due at Noon.
 | [Class 11](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class11) | TUE <br /> 10-03 | **PART B** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Comparing Means using Paired Samples <br /> **READING** By now, **AOS** through Chapter 6, **R4DS** Chapters 1-12, 29-30
 | *min paper* | WED <br /> 10-04 | [Minute Paper after Class 11](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 12](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class12) | THU <br /> 10-05 | Comparing Means with Independent Samples 
+| [Class 12](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class12) | THU <br /> 10-05 | Comparing Means and Medians and Proportions, Single Imputation 
 | - | THU <br /> 10-05 | [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM.
 | *Quiz 1 due* | TUE <br /> 10-10 | [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) due at Noon. <br /> Quiz 1 covers material from Classes 1-12.
 | [Class 13](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class13) | TUE <br /> 10-10 | ANOVA and Indicator Variable Regression <br /> **READING** By now, **AOS** through Chapter 7
