@@ -20,28 +20,6 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
   - **R4DS** = Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
     - Note that solutions for the exercises in R4DS 2e [are available here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/).
 
-## August & September 2023
-
-| LINK | Date | Details |
-|:--------:|:--------:|:---------------------------------------------------|
-| [Class 01](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class01) | TUE <br /> 08-29 | Welcome to 431, How The Course Works <br /> Getting Started with R, RStudio and Quarto
-| *survey* | WED <br /> 08-30 | [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) due at Noon
-| [Class 02](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class02) | THU <br /> 08-31 | **PART A** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Types of Data, Summarizing Quantitative Data
-| [Class 03](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class03) | TUE <br /> 09-05 | Visualizing and Managing Data with RStudio and the Tidyverse <br /> **READING** By now, **AOS** Intro & Chapter 1, **R4DS** through Chapter 3 <br /> First Day of TA office hours
-| *min paper* | WED <br /> 09-06 | [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 04](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class04) | THU <br /> 09-07 | Describing Quantitative and Categorical Data
-| *Lab 1 due* | TUE <br /> 09-12 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 05](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class05) | TUE <br /> 09-12 | Visualizing and Describing Data <br /> **READING** By now, **AOS** through Chapter 3, **R4DS** through Chapter 5 and skim 11
-| *min paper* | WED <br /> 09-13 | [Minute Paper after Class 05](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 06](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class06) | THU <br /> 09-14 | Visualizations for Comparisons and Associations
-| *Lab 2 due* | TUE <br /> 09-19 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 07](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class07) | TUE <br /> 09-19 | Visualizing Quantitative Data  <br /> **READING** By now, **AOS** through Chapter 4, **R4DS** Chapters 6-7, 10-11
-| [Class 08](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class08) | THU <br /> 09-21 | Categorical Data; Scatterplots, Linear Fits and Power Transformations <br /> Movies Breakout 1
-| *Lab 3 due* | TUE <br /> 09-26 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 09](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class09) | TUE <br /> 09-26 | Building Confidence Intervals for a Mean or Difference Between Means <br /> **READING** By now, **AOS** through Chapter 5, **R4DS** Chapters 1-7, 10-12
-| *min paper* | WED <br /> 09-27 | [Minute Paper after Class 09](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
-| [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10) | THU <br /> 09-28 | Data Management, Wrangling and the Tidyverse with the Movies Data
-
 ## October 2023
 
 | LINK | Date | Details |
@@ -109,6 +87,29 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) Proposal Form will be due at noon on Tuesday 2023-11-14. We will schedule the presentations as soon as possible after that deadline.
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) Presentations will be held the week of December 11-15.
 - [Project B](https://thomaselove.github.io/431-projectB-2023/) materials will be due Monday 2023-12-18 at **9 AM**.
+
+## August & September 2023
+
+| LINK | Date | Details |
+|:--------:|:--------:|:---------------------------------------------------|
+| [Class 01](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class01) | TUE <br /> 08-29 | Welcome to 431, How The Course Works <br /> Getting Started with R, RStudio and Quarto
+| *survey* | WED <br /> 08-30 | [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) due at Noon
+| [Class 02](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class02) | THU <br /> 08-31 | **PART A** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). <br /> Types of Data, Summarizing Quantitative Data
+| [Class 03](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class03) | TUE <br /> 09-05 | Visualizing and Managing Data with RStudio and the Tidyverse <br /> **READING** By now, **AOS** Intro & Chapter 1, **R4DS** through Chapter 3 <br /> First Day of TA office hours
+| *min paper* | WED <br /> 09-06 | [Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
+| [Class 04](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class04) | THU <br /> 09-07 | Describing Quantitative and Categorical Data
+| *Lab 1 due* | TUE <br /> 09-12 | [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
+| [Class 05](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class05) | TUE <br /> 09-12 | Visualizing and Describing Data <br /> **READING** By now, **AOS** through Chapter 3, **R4DS** through Chapter 5 and skim 11
+| *min paper* | WED <br /> 09-13 | [Minute Paper after Class 05](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
+| [Class 06](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class06) | THU <br /> 09-14 | Visualizations for Comparisons and Associations
+| *Lab 2 due* | TUE <br /> 09-19 | [Lab 2](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
+| [Class 07](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class07) | TUE <br /> 09-19 | Visualizing Quantitative Data  <br /> **READING** By now, **AOS** through Chapter 4, **R4DS** Chapters 6-7, 10-11
+| [Class 08](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class08) | THU <br /> 09-21 | Categorical Data; Scatterplots, Linear Fits and Power Transformations <br /> Movies Breakout 1
+| *Lab 3 due* | TUE <br /> 09-26 | [Lab 3](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
+| [Class 09](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class09) | TUE <br /> 09-26 | Building Confidence Intervals for a Mean or Difference Between Means <br /> **READING** By now, **AOS** through Chapter 5, **R4DS** Chapters 1-7, 10-12
+| *min paper* | WED <br /> 09-27 | [Minute Paper after Class 09](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
+| [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10) | THU <br /> 09-28 | Data Management, Wrangling and the Tidyverse with the Movies Data
+
 
 # TA office hours 
 
