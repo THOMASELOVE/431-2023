@@ -41,7 +41,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *Lab 5 due* | THU <br /> 10-26 | [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 17](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class17) | THU <br /> 10-26 | Catching Up: Miscellaneous Things I Haven't Gotten To Yet <br /> **READING** By now, **AOS** through Chapter 9
 | *Project A* | TUE <br /> 10-31 | [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) due at Noon. <br /> [Project A](https://thomaselove.github.io/431-projectA-2023/) uses material from Classes 1-12.
-| [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). ANOVA and some ANCOVA <br /> **READING** By now, **AOS** through Chapter 10, **R4DS** skim Chapters 13-28
+| [Class 18](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class18) | TUE <br /> 10-31 | **PART C** begins; see [Course Notes](https://thomaselove.github.io/431-notes/). One-Factor and Two-Factor ANOVA <br /> **READING** By now, **AOS** through Chapter 10, **R4DS** skim Chapters 13-28
 
 ## November 2023
 
