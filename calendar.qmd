@@ -29,9 +29,9 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | No class | *TUE <br /> 11-07* | Election Day. (No 431 class but CWRU is open.) <br /> Now is a great time to work on [Lab X](https://thomaselove.github.io/431-labX/).
 | *Lab 6 due* | THU <br /> 11-09 | [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 20](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class20) | THU <br /> 11-09 | **ZOOM ONLY** (See email for details) Multiple Regression Modeling, Part 2
-| *Project B* | TUE <br /> 11-14 | [Project B](https://thomaselove.github.io/431-projectB-2023/) [Registration Form](https://bit.ly/431-projB-registration-2023) due at 9 AM.
 | [Class 21](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class21) | TUE <br /> 11-14 | Multiple Regression Modeling, Part 3 <br /> **READING** By now, **AOS** through Chapter 11
 | *min paper* | WED <br /> 11-15 | [Minute Paper after Class 21](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
+| *Project B* | THU <br /> 11-16 | **CHANGED** [Project B](https://thomaselove.github.io/431-projectB-2023/) [Registration Form](https://bit.ly/431-projB-registration-2023) due at 9 AM.
 | [Class 22](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class22) | THU <br /> 11-16 | Multiple Regression Modeling, Part 4
 | No class | *TUE <br /> 11-21* | Thanksgiving week. (No 431 class but CWRU is open.) <br /> No TA office hours 11-19 through 11-25
 | No class | *THU <br /> 11-23* | CWRU Thanksgiving Break <br /> No TA office hours 11-19 through 11-25
