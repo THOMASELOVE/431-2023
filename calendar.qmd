@@ -34,8 +34,8 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
-| *Quiz 2 due* | TUE <br /> 12-05 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) due at Noon.
-| [Class 25](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class25) | TUE <br /> 12-05 | To be announced. <br /> **READING** By now, **AOS** complete book
+| *Quiz 2 due* | TUE <br /> 12-05 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) due at **3 PM**.
+| [Class 25](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class25) | TUE <br /> 12-05 | Ask Me Anything Session via Zoom. <br /> **READING** By now, **AOS** complete book
 | *min paper* | WED <br /> 12-06 | [Minute Paper after Class 25](https://github.com/THOMASELOVE/431-minute-2023) due at Noon.
 | [Class 26](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class26) | THU <br /> 12-07 | Last class. Topics to be announced.
 | *Lab Regrade?* | FRI 12-08 | (Optional) Submit [Lab Regrade Request Form](https://bit.ly/431-lab-regrade-form-2023) by noon
