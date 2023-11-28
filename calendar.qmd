@@ -27,7 +27,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | *Lab 7* | TUE <br /> 11-28 | [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
 | [Class 23](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class23) | TUE <br /> 11-28 | Multiple Regression Modeling, continued <br /> **READING** By now, **AOS** through Chapter 12
 | *min paper* | WED <br /> 11-29 | [Minute Paper after Class 23](https://github.com/THOMASELOVE/431-minute-2023) due at **2 PM**.
-| [Class 24](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class24) | THU <br /> 11-30 | Multiple Regression Modeling, continued
+| [Class 24](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class24) | THU <br /> 11-30 | Things I Missed This Semester and Favorite Movies, III
 | - | THU <br /> 11-30 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM. <br /> Quiz 2 covers material from Classes 1-24.
 
 ## December 2023
