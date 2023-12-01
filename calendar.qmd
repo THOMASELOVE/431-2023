@@ -20,15 +20,6 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
   - **R4DS** = Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
     - Note that solutions for the exercises in R4DS 2e [are available here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/).
 
-## Late November 2023
-
-| LINK | Date | Details |
-|:--------:|:--------:|:---------------------------------------------------|
-| *Lab 7* | TUE <br /> 11-28 | [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
-| [Class 23](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class23) | TUE <br /> 11-28 | Multiple Regression Modeling, continued <br /> **READING** By now, **AOS** through Chapter 12
-| *min paper* | WED <br /> 11-29 | [Minute Paper after Class 23](https://github.com/THOMASELOVE/431-minute-2023) due at **2 PM**.
-| [Class 24](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class24) | THU <br /> 11-30 | Some Loose Ends: Power/McNemar/here/77 to NA/ChatGPT, etc.
-| - | THU <br /> 11-30 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM. <br /> Quiz 2 covers material from Classes 1-24.
 
 ## December 2023
 
@@ -98,7 +89,7 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 - [Project A](https://thomaselove.github.io/431-projectA-2023/) Proposal will be due at noon on Tuesday 2023-10-03. We will provide proposal feedback as soon as possible after that deadline.
 - The final [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/) including the R data set, Quarto and HTML report, video and self-evaluation form are all due at noon on Tuesday 2023-10-31.
 
-## November 2023 through Thanksgiving
+## November 2023
 
 | LINK | Date | Details |
 |:--------:|:--------:|:---------------------------------------------------|
@@ -112,6 +103,11 @@ All classes meet in person in Room E321-323 in the Robbins Building at the CWRU 
 | [Class 22](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class22) | THU <br /> 11-16 | Using mice to perform multiple imputation, It's All A Linear Model
 | No class | *TUE <br /> 11-21* | Thanksgiving week. (No 431 class but CWRU is open.) <br /> No TA office hours 11-19 through 11-25
 | No class | *THU <br /> 11-23* | CWRU Thanksgiving Break <br /> No TA office hours 11-19 through 11-25
+| *Lab 7* | TUE <br /> 11-28 | [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) due at Noon.
+| [Class 23](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class23) | TUE <br /> 11-28 | Multiple Regression Modeling, continued <br /> **READING** By now, **AOS** through Chapter 12
+| *min paper* | WED <br /> 11-29 | [Minute Paper after Class 23](https://github.com/THOMASELOVE/431-minute-2023) due at **2 PM**.
+| [Class 24](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class24) | THU <br /> 11-30 | Some Loose Ends: Power/McNemar/here/77 to NA/ChatGPT, etc.
+| - | THU <br /> 11-30 | [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023) made available to you by 5 PM. <br /> Quiz 2 covers material from Classes 1-24.
 
 # TA office hours 
 
